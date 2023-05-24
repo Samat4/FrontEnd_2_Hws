@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+}
+
+.increment {
+  background-color: green;
+  width: 50px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.decrement {
+  background-color: red;
+  width: 50px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.result {
+  font-size: 30px;
+  margin-left: 10px;
+  font-weight: 700;
+}
+
+.dz2 {
+  margin: 20px 0 20px;
+}
+
+.click {
+  height: 20px;
+  width: 50px;
+  background-color: green;
+  border-radius: 20px;
+}
+
+.txt {
+  font-size: 20px;
+}
+
+
+
+.colors {
+  display: flex;
+  align-items: center;
+}
+
+.color {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin-right: 10px; 
+}
+
+.red-text {
+  display: none;
+  color: red;
+}
+
+.yellow-text {
+  display: none;
+  color: yellow;
+}
+
+.green-text {
+  display: none;
+  color: green;
+}
