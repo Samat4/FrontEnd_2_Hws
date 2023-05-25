@@ -1,0 +1,27 @@
+.colors {
+    display: flex;
+    align-items: center;
+}
+
+.color {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-right: 10px;
+}
+
+.red-text {
+    display: none;
+    color: red;
+}
+
+.yellow-text {
+    display: none;
+    color: yellow;
+}
+
+.green-text {
+    display: none;
+    color: green;
+}
